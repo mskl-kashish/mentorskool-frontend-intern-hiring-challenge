@@ -22,11 +22,12 @@ Create new forms with multiple question types:
 
 - React 18 with TypeScript
 - Material-UI (MUI) for components and styling
-- TanStack Query for server-state management
+- TanStack Query 
 - React Hook Form (where applicable) for form handling
 - Supabase
 
 **Implementation Notes**
+
 - Clean UI/UX following Google Forms' design patterns
 - Proper TypeScript interfaces and type safety
 - Efficient state management
