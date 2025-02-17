@@ -1,5 +1,7 @@
 # mentorskool-frontend-intern-hiring-challenge
 
+**The deadline for this task is February 20, 2025**
+
 **Google Form Clone Project Overview**
 
 This project is a simple Google Form clone with essential form-building functionality and user authentication.
