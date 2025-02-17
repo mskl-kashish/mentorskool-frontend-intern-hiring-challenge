@@ -16,12 +16,7 @@ Create new forms with multiple question types:
 - File Upload (PDF, images, documents)
 - Checkbox 
 - Short answer
-Drag-and-drop question reordering (optional)
-
-UI Components
-Preview-style form rendering
-Publish dialog modal (UI only – no actual publishing required)
-Responsive design for all screen sizes
+- Drag-and-drop question reordering (optional)
 
 **Tech Stack Frontend**
 
